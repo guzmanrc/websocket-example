@@ -1,0 +1,4 @@
+PHP Warning:  socket_recv(): unable to read from socket [110]: Connection timed out in /var/www/websocket-example/server.php on line 49
+PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/websocket-example/server.php on line 67
+PHP Warning:  socket_recv(): unable to read from socket [110]: Connection timed out in /var/www/websocket-example/server.php on line 49
+PHP Warning:  socket_getpeername(): unable to retrieve peer name [107]: Transport endpoint is not connected in /var/www/websocket-example/server.php on line 67
